@@ -1,0 +1,46 @@
+channel,rating,category
+Online,39.9,Overall
+Own-brand store,39.2,Overall
+Electronics store,10.7,Overall
+Telecoms company store,8.9,Overall
+Other,1.3,Overall
+Online,41.3,First-tier cities
+Own-brand store,37,First-tier cities
+Electronics store,13.7,First-tier cities
+Telecoms company store,7.5,First-tier cities
+Other,0.6,First-tier cities
+Online,43.4,Second-tier cities
+Own-brand store,36.4,Second-tier cities
+Electronics store,8.9,Second-tier cities
+Telecoms company store,9.8,Second-tier cities
+Other,1.5,Second-tier cities
+Online,34.7,Third-tier cities
+Own-brand store,44.5,Third-tier cities
+Electronics store,9.5,Third-tier cities
+Telecoms company store,9.5,Third-tier cities
+Other,1.9,Third-tier cities
+Online,37.6,Under Rmb99k
+Own-brand store,37.3,Under Rmb99k
+Electronics store,10,Under Rmb99k
+Telecoms company store,12.2,Under Rmb99k
+Other,2.9,Under Rmb99k
+Online,42.9,Rmb100k-299k
+Own-brand store,38.3,Rmb100k-299k
+Electronics store,10.8,Rmb100k-299k
+Telecoms company store,7.5,Rmb100k-299k
+Other,0.6,Rmb100k-299k
+Online,33.3,Rmb300k and above
+Own-brand store,47.4,Rmb300k and above
+Electronics store,11.9,Rmb300k and above
+Telecoms company store,6.7,Rmb300k and above
+Other,0.7,Rmb300k and above
+Online,44.7,Less than Rmb2k
+Own-brand store,32.8,Less than Rmb2k
+Electronics store,9.4,Less than Rmb2k
+Telecoms company store,10.3,Less than Rmb2k
+Other,2.8,Less than Rmb2k
+Online,37.5,More than Rmb2k
+Own-brand store,42.4,More than Rmb2k
+Electronics store,11.3,More than Rmb2k
+Telecoms company store,8.2,More than Rmb2k
+Other,0.6,More than Rmb2k
